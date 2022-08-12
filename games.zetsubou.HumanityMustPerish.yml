@@ -31,4 +31,4 @@ modules:
         sha512: c42ee281b5209cdbce2c93c1a47610a71582d2aec2b3e39d91ce10ad3114c29ec9d8b186b2f0350c3691be42dde3156d60e014534fcb8b0b4c63376dcf7efd7f
       - type: file
         path: games.zetsubou.HumanityMustPerish.metainfo.xml
-        sha512: f2a5e047e28e78aa0509f3bc87dda5c7f1fe762dcaf1b70302b7db36c0b23e34567ef3e5ce5af1ab70272421ad332b4a70bfe0cd697430d5e660b3cbd87e7d11
+        sha512: dd4327f1d3ddfa88058953307bddb35948f55c670cd018b933bb76d76045dc418da66445e74ae8f54fb88367b8148edbf26c6900ccc2936ba43a1465ac3b2e9d

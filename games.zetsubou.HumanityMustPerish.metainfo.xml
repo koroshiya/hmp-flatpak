@@ -20,10 +20,9 @@
 	<url type="contact">https://twitter.com/ZetsubouGames</url>
 	<launchable type="desktop-id">games.zetsubou.HumanityMustPerish.desktop</launchable>
 	<releases>
-		<release version="1.2.1" date="2022-05-22">
+		<release version="1.2.2" date="2022-08-12">
 			<description>
-				<p>Version 1.2.1 is a minor bugfix release which incorporates the following change:</p>
-				<p>-Fix for a bug where if you quit the game from the main menu (as opposed to quitting while in-game) the next time you started the game it would try to load a non-existent save file</p>
+				<p>Version 1.2.2 is the initial flatpak release</p>
 			</description>
 		</release>
 	</releases>
@@ -31,23 +30,23 @@
 	<developer_name>Zetsubou Games</developer_name>
 	<screenshots>
 		<screenshot type="default">
-			<image type="source" width="1920" height="1080">https://raw.githubusercontent.com/koroshiya/hmp-flatpak/main/screenshots/1.jpg</image>
+			<image type="source" width="1600" height="900">https://raw.githubusercontent.com/koroshiya/hmp-flatpak/main/screenshots/1.jpg</image>
                         <image type="thumbnail" width="800" height="450">https://raw.githubusercontent.com/koroshiya/hmp-flatpak/main/thumbnails/1.jpg</image>
 		</screenshot>
 		<screenshot>
-			<image type="source" width="1920" height="1080">https://raw.githubusercontent.com/koroshiya/hmp-flatpak/main/screenshots/2.jpg</image>
+			<image type="source" width="1600" height="900">https://raw.githubusercontent.com/koroshiya/hmp-flatpak/main/screenshots/2.jpg</image>
                         <image type="thumbnail" width="800" height="450">https://raw.githubusercontent.com/koroshiya/hmp-flatpak/main/thumbnails/2.jpg</image>
 		</screenshot>
 		<screenshot>
-			<image type="source" width="1920" height="1080">https://raw.githubusercontent.com/koroshiya/hmp-flatpak/main/screenshots/3.jpg</image>
+			<image type="source" width="1600" height="900">https://raw.githubusercontent.com/koroshiya/hmp-flatpak/main/screenshots/3.jpg</image>
                         <image type="thumbnail" width="800" height="450">https://raw.githubusercontent.com/koroshiya/hmp-flatpak/main/thumbnails/3.jpg</image>
 		</screenshot>
 		<screenshot>
-			<image type="source" width="1920" height="1080">https://raw.githubusercontent.com/koroshiya/hmp-flatpak/main/screenshots/4.jpg</image>
+			<image type="source" width="1600" height="900">https://raw.githubusercontent.com/koroshiya/hmp-flatpak/main/screenshots/4.jpg</image>
                         <image type="thumbnail" width="800" height="450">https://raw.githubusercontent.com/koroshiya/hmp-flatpak/main/thumbnails/4.jpg</image>
 		</screenshot>
 		<screenshot>
-			<image type="source" width="1920" height="1080">https://raw.githubusercontent.com/koroshiya/hmp-flatpak/main/screenshots/5.jpg</image>
+			<image type="source" width="1600" height="900">https://raw.githubusercontent.com/koroshiya/hmp-flatpak/main/screenshots/5.jpg</image>
                         <image type="thumbnail" width="800" height="450">https://raw.githubusercontent.com/koroshiya/hmp-flatpak/main/thumbnails/5.jpg</image>
 		</screenshot>
 	</screenshots>
